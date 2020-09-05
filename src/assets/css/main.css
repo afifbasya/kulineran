@@ -22,3 +22,18 @@
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
 }
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb-item.active {
+    font-weight: bold;
+    color: black;
+}
+
+
+.img-fluid {
+    border-radius: 15px;
+}
